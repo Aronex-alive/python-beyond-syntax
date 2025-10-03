@@ -6,4 +6,4 @@ along with that I learned about repl which stands for read evaluate print loop. 
 After read a simple definition of programming. <br>
 THAT IS ALL FOR TODAY <br>
 
-###  DAY 1 COMPLETED
+
