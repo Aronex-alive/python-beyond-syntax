@@ -18,10 +18,8 @@ python on the other hand there are external module which the user has to downloa
 **Code for installing an external module:**  
 ```
 pip install <module-name>
-<br>
 for example :- pip install pandas, pip install sklearn
-<br>
-See you tomorrow.
+**See you tomorrow.**
 ```
 
 
