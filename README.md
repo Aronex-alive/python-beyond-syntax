@@ -20,4 +20,10 @@ python on the other hand there are external module which the user has to downloa
 pip install <module-name>
 ```
 for example :- pip install pandas, pip install sklearn<br>
-See you tomorrow
+See you tomorrow<br>
+##  #DAY_4 <br>
+Today I made my first python programe .which wasn't much but a simple programe that prints some instructions. I used print() function in python:-
+``` print("Hello world")
+print("I am Aronex"," \n nice to meet you")
+```
+This is up for today tomorrow I will study escape sequences.
