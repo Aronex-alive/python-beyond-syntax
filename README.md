@@ -44,5 +44,36 @@ The **sep** is used to define that what should be printed between the Statement 
 ```
 print("Have a good day","my friend",sep="-",end="@")
 ```
-Have a great day ahead.
+Have a great day ahead.<br>
 
+##  #DAY_6  <br>
+Hola World! today i learned abuot data types in python and variables. **variables** are basically containers inpython which can store different data types. Ther are two types of data types that is :-<br>
+1.**Mutable datatype**<br>
+2.**Imutable datatype**<br>
+Those datatypes which can be changed are called mutable data types whereas those datatypes which can not be changed are know as imutable datatypes. The mutable data type includes **list ,dictionary and sets** and imutable datatype includes **string , tuple** etc. Following are the few data types in python :-<br>
+ **1. String datatype** :- anything enclosed within single or double quotes is a string.
+ ```
+ a="Hello World"
+ print(a)   # here a is a variable which stores the value in it
+ print(type(a))  # this type() function is used to find the type of a data entered in python
+ ```
+**2. Numeric datatype** :- this includes numeric values
+```
+b=142  
+print(type(b))  # here the type will be integer so <class= 'int'> wil be printed
+c=123.5
+print(type(c))   # here float will be printed
+d=complex(4,2)
+print(type(d))  # here complex will be printed
+```
+**3. Sequencial datatype** :- it incles lists,tupleand sets
+```
+list=[1,2,3,[apple,orange]] 
+tuple1=(12,3,34,76) 
+dict={ "Name":"Aronex","Class":11}
+set={12,54,78,4,5}
+```
+**4. Boolean datatype** :- it gives otput only in True or False
+<br>
+so these were the different data types in python. **You can check the DAY_6** program file for more codes( it is present in the save repo).<br>
+let's meet tomorrow have a great day.
