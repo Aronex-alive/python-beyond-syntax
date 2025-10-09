@@ -76,4 +76,17 @@ set={12,54,78,4,5}
 **4. Boolean datatype** :- it gives otput only in True or False
 <br>
 so these were the different data types in python. **You can check the DAY_6** program file for more codes( it is present in the save repo).<br>
-let's meet tomorrow have a great day.
+let's meet tomorrow have a great day.<br>
+##  #DAY_7  <br> 
+Welcome back friends today i learned about operators in python which are following :-
+```
++ #addition
+- #subtraction
+* #multiplication
+/ #division
+// #floor division 
+% #remainder modulus
+** #exponential
+```
+ and make that you check **My first Python exercise or program #DAY_7.py** for creating a calculator.<br>
+ Thah's all for today. Adios Amigos
