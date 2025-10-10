@@ -89,4 +89,11 @@ Welcome back friends today i learned about operators in python which are followi
 ** #exponential
 ```
  and make that you check **My first Python exercise or program #DAY_7.py** for creating a calculator.<br>
- Thah's all for today. Adios Amigos
+ Thah's all for today. Adios Amigos<br>
+ ##  #DAY_8   <br>
+ Today i have not learned much because today was the solution day of the previous day's exercise but still ther are few **VS Code** stortcuts which i want to tell you guys :-
+```
+ctrl + / # for making the selected lines a comment
+alt + shift + downarrow # for replicating the line 
+```
+Let's hope for a better tomorrow.Adios
