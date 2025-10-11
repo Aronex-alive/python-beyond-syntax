@@ -90,10 +90,33 @@ Welcome back friends today i learned about operators in python which are followi
 ```
  and make that you check **My first Python exercise or program #DAY_7.py** for creating a calculator.<br>
  Thah's all for today. Adios Amigos<br>
+
  ##  #DAY_8   <br>
  Today i have not learned much because today was the solution day of the previous day's exercise but still ther are few **VS Code** stortcuts which i want to tell you guys :-
 ```
 ctrl + / # for making the selected lines a comment
 alt + shift + downarrow # for replicating the line 
 ```
-Let's hope for a better tomorrow.Adios
+Let's hope for a better tomorrow.Adios<br>
+
+ ##  #DAY_9   <br>
+ Welcome again guys, Today I learned what is typecasting in python. It is the procees of changing the type of different data types using function like **int(), hex(), oct(), float() etc.** and type casting is of two types that are :-<br>
+ 1.Explicit Type casting<br>
+ 2.Inplicit Type casting<br>
+ Explicit type casting is done by the coder or programer which involes use of functions like :-<br>
+ **a=34<br>
+ print(str(a)+"Hello")**<br>
+ And in Implicit type casting the python interpretor Automatically converts the type of a data ex.<br>
+ **a=12<br>
+ b=1.8<br>
+ print(a+b) # here python first converts a into float type after that it adds it**<br>
+Following some sample code:-
+ ```
+ a=31
+ b=52
+ print(a+b)
+ print(str(a)+str(b))  #Here output will be 3152 because a and b is treated as string
+ ```
+ I also learned about the **type() function**, which tells us the type of data entered.<br>
+**Make sure that you Check DAY_9 program for it.**<br>
+ Have a great day<br>
