@@ -99,7 +99,7 @@ alt + shift + downarrow # for replicating the line
 ```
 Let's hope for a better tomorrow.Adios<br>
 
- ##  #DAY_9   <br>
+##  #DAY_9   <br>
  Welcome again guys, Today I learned what is typecasting in python. It is the procees of changing the type of different data types using function like **int(), hex(), oct(), float() etc.** and type casting is of two types that are :-<br>
  1.Explicit Type casting<br>
  2.Inplicit Type casting<br>
@@ -120,3 +120,16 @@ Following some sample code:-
  I also learned about the **type() function**, which tells us the type of data entered.<br>
 **Make sure that you Check DAY_9 program for it.**<br>
  Have a great day<br>
+
+##  #DAY_10   <br>
+ Hola! Today i learned how to take input from the user which is done by usiny the **input() function** in python. the input function by default takes the value in string and in order to change it's data type we have to do type casting.Further more we have to assign the input() function or store the input in a variable.
+ ``` 
+ a=input("Enter your name : ")
+ print(a)
+ b=input("enter a no. : ")
+ c=input("enter a no. : ")
+ print(b+c)  #here b and c are treated as string
+ print(type(b))
+ ```
+ That is all for today.<br>
+
