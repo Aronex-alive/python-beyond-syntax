@@ -148,5 +148,5 @@ print(b)
 for i in b:
   print(i)  # this will print every character of vari.b in different lines
 ```
-Make sure that you check **#DAY_11** program. this is all for today see ypu next time.<br>
+Make sure that you check **#DAY_11** program. this is all for today see you next time.<br>
 
