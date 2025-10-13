@@ -32,9 +32,10 @@ print("I am Aronex"," \n nice to meet you")
 This is up for today tomorrow I will study escape sequences.<br>
 
 ##  #DAY_5 <br>
-Hola! world. Today i learned about escape sequence characters in python. It refers to those characters which help us to tll the python that we want a new line or '' or "" to be displayed to the user.
+Hola! world. Today i learned about escape sequence characters in python. It refers to those characters which help us to tell the python that we want a new line or '' or "" to be displayed to the user.
 ```
-print("Hello Word \n my name is Aronex")  # here the \n is a escape sequence character 
+print("Hello Word \n my name is Aronex")  # here the \n is a escape sequence character
+print("he said that,\"I am ill\"") 
 ```
 I also learned about some more functions used within print function that are :-
 1.sep<br>
@@ -132,4 +133,20 @@ Following some sample code:-
  print(type(b))
  ```
  That is all for today.<br>
+
+ ##  #DAY_11   <br>
+ Hello World today i learned about **strings** which is one of the data types present in python. Anything within a single or double quote is treated as a string and the string's indexing starts from 0. Further more if you want to print multiline string you can use triple quotes.I also studied about how to use for loop to print different characters of the string.
+ ```
+ a="Milkyway"
+ print(a[0])  # here only M will be printed
+ print(a[1:5])
+ b='''I am a student whose dreams
+ are out of world.
+ but the thing is i am currently working as hard as i should or ass i could'''
+print(b)
+
+for i in b:
+  print(i)  # this will print every character of vari.b in different lines
+```
+Make sure that you check **#DAY_11** program. this is all for today see ypu next time.<br>
 

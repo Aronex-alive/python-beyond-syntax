@@ -6,3 +6,4 @@ print(type(b)) #int
 c=12.3
 d=b+c
 print(d,type(d)) #float
+print("he said that,\"iam ill")
