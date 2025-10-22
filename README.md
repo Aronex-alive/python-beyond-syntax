@@ -158,7 +158,7 @@ print(a[0:6]) # here whole word will be printed
 print(a[-4:-1]) 
 print(a[len(a)-4:len(a)-1]) # this and above are same 
 ```
-From **left to right or positive** index starts from **0 to ...** and from **right to left or negative** index starts from **-1 to ...** :--       For negative slicing the python interpreter subtracts the given negative indicies from the length of string. We can iterate the characters of the string also by using for loop. 
+From <u> _**left to right or positive**_</u> index starts from <u>_**0 to ...**_</u> and from <u>_**right to left or negative**_ </u>index starts from  <u>_ **-1 to ...**_</u>:--       For negative slicing the python interpreter subtracts the given negative indicies from the length of string. We can iterate the characters of the string also by using for loop. 
 ```
 s="adjoining program"
 for i in s:
