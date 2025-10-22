@@ -150,3 +150,18 @@ for i in b:
 ```
 Make sure that you check **#DAY_11** program. this is all for today see you next time.<br>
 
+##  #DAY_12   <br>
+Hola! today i learned how to slice a string in python and furthermore I learned about the **len()** function in python. the slicing is of two types that is positive and negative slicings. Following are few examples :-
+```
+a="Aronex"
+print(a[0:6]) # here whole word will be printed
+print(a[-4:-1]) 
+print(a[len(a)-4:len(a)-1]) # this and above are same 
+```
+From **left to right or positive** index starts from **0 to ...** and from **right to left or negative** index starts from **-1 to ...** :--       For negative slicing the python interpreter subtracts the given negative indicies from the length of string. We can iterate the characters of the string also by using for loop. 
+```
+s="adjoining program"
+for i in s:
+  print(i)
+```
+Check **#DAY_12 program** for more examples. Thanks <br>
