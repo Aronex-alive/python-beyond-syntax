@@ -165,3 +165,62 @@ for i in s:
   print(i)
 ```
 Check **#DAY_12 program** for more examples. Thanks <br>
+
+##  #DAY_13   <br>
+Hola amigos. Today i leared about the different commands or functions of string data type. As string are immutable type of data that's why they can not be change. So the functions of string are generally applied on a copy of the string. There are the functions available for the string data type:- <br>
+1. **upper()**:- this converts the string into uppercase.<br>
+syntax- a.upper() <br>
+2. **lower()**:- this converts the string into lowercase<br>
+syntax- a.lower()<br>
+3. **strip()**:- this removes the white spaces from the starting and from the ending of a string.<br>
+syntax- a.strip()<br>
+4. **rstrip()**:- this removes any trailing character<br>
+syntax- a.rstrip()<br>
+5. **replace()** :-
+The replace() method replaces all occurences of a string with another string. Example:<br>
+str2 = "Silver Spoon"<br>
+print(str2.replace("Sp", "M"))<br>
+6. **split()** :
+The split() method splits the given string at the specified instance and returns the separated strings as list items.
+Example:<br>
+str2 = "Silver Spoon"<br>
+print(str2.split(" "))      #Splits the string at the whitespace " ".<br>
+7. **capitalize()** : Converts the first character of the string to uppercase and the rest to lowercase.<br>
+
+8. **center()** : Centers the string within a specified width. You can use a custom fill character.<br>
+Example:<br>
+"Hello".center(10, "*") # Output: '**Hello***'<br>
+
+9. **count(**) : Returns the number of times a substring appears in the string.<br>
+
+10. **endswith()** : Checks if the string ends with a specified value. Returns True or False.<br>
+
+11. **find()** : Returns the index of the first occurrence of a substring, or -1 if not found.<br>
+
+12. **index()** : Similar to find(), but raises an error if the substring is not found.<br>
+
+13. **isalnum()** : Returns True if all characters are alphanumeric (A–Z, a–z, 0–9).<br>
+
+14. **isalpha()** : Returns True if all characters are alphabetic (A–Z, a–z).<br>
+
+15. **islower()** : Returns True if all characters in the string are lowercase.<br>
+
+16. **isprintable()** : Returns True if all characters in the string are printable (no control characters).<br>
+
+17. **isspace()** : Returns True if the string contains only whitespace characters (spaces, tabs, etc.).<br>
+
+18. **istitle()** : Returns True if each word in the string starts with an uppercase letter.<br>
+Example:<br>
+"World Health Organization".istitle() # True<br>
+
+19. **isupper()** : Returns True if all characters in the string are uppercase.<br>
+
+20. **startswith()** : Checks if the string starts with a specified value. Returns True or False.<br>
+
+21. **swapcase()** : Converts uppercase letters to lowercase and vice versa.<br>
+Example:<br>
+"Python".swapcase() # 'pYTHON'<br>
+
+22. **title()** : Capitalizes the first letter of every word in the string.<br>
+<br>
+That is all for today see you tommorow.
