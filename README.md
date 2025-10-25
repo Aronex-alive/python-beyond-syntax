@@ -224,3 +224,24 @@ Example:<br>
 22. **title()** : Capitalizes the first letter of every word in the string.<br>
 <br>
 That is all for today see you tommorow.
+
+##  #DAY_14   <br>
+welcome back guys today i learned about the the conditional statements in python i.e, the use of if, elif and else.
+There keywords are used in python so that the interpreter can find or solve a conditional statement. for example:-<br>
+```
+a=int(input("enter a number :"))
+if a<0:
+  print(a,'is a negative number')
+elif a==0:
+  print(a,'is equal to 0')
+elif a>0:
+  print(a,'is a positive number')
+else:
+  print("Enter a valid input")
+```
+This is the way or syntax of using conditional stataments in python. I hope i will see you next time.<br>
+
+##  #DAY_15   <br>
+Today i got an exercise to make a program using time module which checkes the time and then reply good morning or evening or night according to the time. For this see the #DAY_15 program.<br>
+ok then have a good day.
+
