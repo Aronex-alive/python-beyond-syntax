@@ -243,5 +243,16 @@ This is the way or syntax of using conditional stataments in python. I hope i wi
 
 ##  #DAY_15   <br>
 Today i got an exercise to make a program using time module which checkes the time and then reply good morning or evening or night according to the time. For this see the #DAY_15 program.<br>
-ok then have a good day.
+ok then have a good day.<br>
 
+##  #DAY_16   <br>
+Hello World! Today i learned about the Match case statements in python which was actually an addition in the python from 3.10 onwards and to see it in action please visit the #DAY_16.py program<br>
+```
+a=4
+match a:
+  case 2:
+   print(a,"is two")
+  case _:  #Default case 
+   print(a,"is four") 
+```
+that is all for today. Nos vemos mañana.
