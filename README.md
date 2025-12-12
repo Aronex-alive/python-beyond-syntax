@@ -256,3 +256,24 @@ match a:
    print(a,"is four") 
 ```
 that is all for today. Nos vemos mañana.
+
+## #DAY_17 <br>
+Hello World! today I explored the magnificent world of loops in python.Loops are basically in simple words to do or perfrom a task again and again until the specified condition is met and there are of two types i.e. <br>
+1. For loop<br>
+2. While loop<br> 
+in for loop you have to specify the range attribute or you can access the individual elements of a input by traversing it using for loop. The syntax for it is :-
+```
+for i in range(start,stop,step):
+   print("hello")
+```
+That's all for today bye bye!<br>
+
+## #DAY_18 <br>
+Welcome back guys todays i learned about the while loop . in this you have to specify a variable at the starting of the loop and then with every time the loop runs it's value should be increased. If this is not done then the loop become a infinity loop.
+```
+a=0
+While a<5:
+  print("Helo")
+  a+=1
+```
+By the way usually the for loop is slightly more prefered or used with comparison to the while loop and that was it with that I sign off today.See you tomorrow.<br>
