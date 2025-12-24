@@ -276,4 +276,25 @@ While a<5:
   print("Helo")
   a+=1
 ```
+Do while loop is a loop which executes atleast once no matter of the condition but after iterating once it will check the condition and if the condition is True than it run the loop again otherwise not.
 By the way usually the for loop is slightly more prefered or used with comparison to the while loop and that was it with that I sign off today.See you tomorrow.<br>
+
+## #DAY_19 <br>
+Welcome again guys today i have studied about the Break and Continue functions in python and further more in today's code file you will see the use of or example of a Do while loop<br>
+Break function:- It is used to terminate the loop the desired condition is fulfilled or satisfied.
+```
+for i in range(10):
+  if i==7:
+    break
+  print(i)
+```
+Continue function:- It is used basically to omit a particular iteration.
+```
+for i in range(12):
+  if i==5:
+    continue
+  print(i)
+```
+In the firat code the loop will terminate as soon the value of i reaches 7 and 0 to 6 will be printed. In the code as soon the value of i reaches 5 it will continue or omit the only iteration where i == 5.<br>
+Bye Bye then see you next time.
+  
